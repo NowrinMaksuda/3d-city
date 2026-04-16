@@ -1,0 +1,26 @@
+﻿  main.cpp
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(392,74): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(393,74): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(394,74): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(395,74): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(396,74): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(397,74): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(398,70): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(399,70): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(400,70): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(401,70): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(402,70): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(403,70): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(429,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(434,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(439,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(444,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(449,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(454,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(459,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(464,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(469,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(474,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(479,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nazirul Hasan\Desktop\3D\main.cpp(484,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  3D.vcxproj -> C:\Users\Nazirul Hasan\Desktop\3D\x64\Debug\3D.exe
